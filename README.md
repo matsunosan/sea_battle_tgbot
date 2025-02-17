@@ -22,7 +22,7 @@ This is a Telegram bot that allows users to play a "Sea Battle" game, where they
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/seabattlebot.git
+   git clone https://github.com/matsunosan/seabattlebot.git
    cd seabattlebot
    ```
 
@@ -89,5 +89,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 - Thanks to the developers and contributors of the [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) library for making Telegram bot development straightforward.
 
 ---
-
-This README provides a comprehensive guide to understanding, setting up, and using the Sea Battle Telegram Bot, ensuring that anyone can quickly get started with the project.
