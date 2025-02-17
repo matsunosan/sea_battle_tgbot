@@ -1,5 +1,3 @@
-### README.md
-
 # Sea Battle Telegram Bot
 
 This is a Telegram bot that allows users to play a "Sea Battle" game, where they can shoot at a grid to find hidden prizes while avoiding bombs. The bot provides a simple text-based interface with a map represented by emojis.
